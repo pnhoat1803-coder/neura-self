@@ -1,3 +1,13 @@
 {
-    "accounts": []
+    "accounts": [
+        {
+            "name": "NAME",
+            "token": "TOkenN",
+            "channels": [
+                ""
+            ],
+            "enabled": true,
+            "proxy_id": null
+        }
+    ]
 }
