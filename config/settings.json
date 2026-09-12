@@ -85,7 +85,7 @@
             }
         },
         "gems": {
-            "enabled": true,
+            "enabled": false,
             "interval": [
                 15,
                 20
@@ -111,7 +111,7 @@
             "use_gems_set": true
         },
         "giveaway": {
-            "enabled": true,
+            "enabled": false,
             "channels": [
                 "1099453684691243098",
                 "1168797748343099444",
@@ -167,7 +167,7 @@
             "cooldown": 3600
         },
         "boss": {
-            "enabled": true,
+            "enabled": false,
             "join_chance": 100,
             "join_all_guilds": false,
             "ignore_guilds": [],
@@ -254,7 +254,7 @@
             90
         ],
         "max_length": 10,
-        "min_length": 5
+        "min_length": 1
     },
     "utilities": {
         "autochannel": {
