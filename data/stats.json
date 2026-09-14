@@ -1,0 +1,122 @@
+{
+    "972366261579288618": {
+        "last_reset_date": "2026-09-13",
+        "captchas_solved": 51,
+        "bans_detected": 0,
+        "warnings_detected": 25,
+        "hunt_count": 4304,
+        "battle_count": 4311,
+        "owo_count": 0,
+        "total_cmd_count": 9658,
+        "other_count": 9657,
+        "gems_used": 0,
+        "username": "s1renx.21",
+        "quest_data": [
+            {
+                "description": "> use an action command on someone 10 times!",
+                "current": 0,
+                "total": 10,
+                "completed": false
+            }
+        ],
+        "next_quest_timer": null,
+        "current_cash": 0,
+        "gambling_stats": {
+            "total_wins": 1,
+            "total_losses": 17,
+            "total_wagered": 46483,
+            "net_profit": -46283,
+            "current_streak": -14,
+            "best_streak": 1,
+            "worst_streak": -14,
+            "biggest_win": 100,
+            "last_outcome": "loss"
+        }
+    },
+    "1466096069875073075": {
+        "last_reset_date": "2026-09-13",
+        "captchas_solved": 52,
+        "bans_detected": 0,
+        "warnings_detected": 25,
+        "hunt_count": 4280,
+        "battle_count": 4291,
+        "owo_count": 0,
+        "total_cmd_count": 9639,
+        "other_count": 9637,
+        "gems_used": 0,
+        "username": "mallyisqueen",
+        "quest_data": [
+            {
+                "description": "> defeat 5 bosses!",
+                "current": 3,
+                "total": 5,
+                "completed": false
+            },
+            {
+                "description": "> gamble 10 times!",
+                "current": 9,
+                "total": 10,
+                "completed": false
+            }
+        ],
+        "next_quest_timer": null,
+        "current_cash": 0,
+        "gambling_stats": {
+            "total_wins": 0,
+            "total_losses": 12,
+            "total_wagered": 4095,
+            "net_profit": -4095,
+            "current_streak": -12,
+            "best_streak": 0,
+            "worst_streak": -12,
+            "biggest_win": 0,
+            "last_outcome": "loss"
+        }
+    },
+    "936079140694663249": {
+        "last_reset_date": "2026-09-13",
+        "captchas_solved": 43,
+        "bans_detected": 0,
+        "warnings_detected": 21,
+        "hunt_count": 4238,
+        "battle_count": 0,
+        "owo_count": 0,
+        "total_cmd_count": 9520,
+        "other_count": 9519,
+        "gems_used": 0,
+        "username": "ueuez",
+        "quest_data": [
+            {
+                "description": "> hunt 15 rare rank animals!",
+                "current": 15,
+                "total": 15,
+                "completed": true
+            },
+            {
+                "description": "> have a friend pray to you 3 times!",
+                "current": 3,
+                "total": 3,
+                "completed": true
+            },
+            {
+                "description": "> receive a cookie from 4 friends!",
+                "current": 0,
+                "total": 4,
+                "completed": false
+            }
+        ],
+        "next_quest_timer": null,
+        "current_cash": 0,
+        "gambling_stats": {
+            "total_wins": 0,
+            "total_losses": 0,
+            "total_wagered": 0,
+            "net_profit": 0,
+            "current_streak": 0,
+            "best_streak": 0,
+            "worst_streak": 0,
+            "biggest_win": 0,
+            "last_outcome": null
+        }
+    }
+}
