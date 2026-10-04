@@ -189,10 +189,10 @@
         "speed_preset": "fast",
         "speed_custom": {
             "enabled": true,
-            "reaction_min": 0.1,
-            "reaction_max": 0.2,
-            "key_delay_min": 0.1,
-            "key_delay_max": 0.2,
+            "reaction_min": 0.2,
+            "reaction_max": 0.3,
+            "key_delay_min": 0.2,
+            "key_delay_max": 0.3,
             "mistake_rate": 0,
             "enter_delay_min": 0.1,
             "enter_delay_max": 0.3
@@ -220,9 +220,9 @@
             "tiered": true,
             "tier_retries": 3,
             "service": "tiered",
+            "captchaly_api_key": "",
             "yescaptcha_api_key": "",
             "nopecha_api_key": "",
-            "captchaly_api_key": "",
             "anticaptcha_api_key": ""
         },
         "open_captcha_url_on_pc": true,
