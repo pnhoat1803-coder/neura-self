@@ -1,0 +1,104 @@
+{
+    "1466096069875073075": {
+        "last_reset_date": "2026-09-15",
+        "captchas_solved": 81,
+        "bans_detected": 0,
+        "warnings_detected": 40,
+        "hunt_count": 3639,
+        "battle_count": 3650,
+        "owo_count": 0,
+        "total_cmd_count": 8200,
+        "other_count": 8199,
+        "gems_used": 0,
+        "username": "mallyisqueen",
+        "quest_data": [
+            {
+                "description": "> battle with a friend 15 times!",
+                "current": 0,
+                "total": 15,
+                "completed": false
+            }
+        ],
+        "next_quest_timer": null,
+        "current_cash": 0,
+        "gambling_stats": {
+            "total_wins": 0,
+            "total_losses": 12,
+            "total_wagered": 4095,
+            "net_profit": -4095,
+            "current_streak": -12,
+            "best_streak": 0,
+            "worst_streak": -12,
+            "biggest_win": 0,
+            "last_outcome": "loss"
+        }
+    },
+    "972366261579288618": {
+        "last_reset_date": "2026-09-15",
+        "captchas_solved": 103,
+        "bans_detected": 0,
+        "warnings_detected": 51,
+        "hunt_count": 3681,
+        "battle_count": 3703,
+        "owo_count": 0,
+        "total_cmd_count": 8318,
+        "other_count": 8317,
+        "gems_used": 0,
+        "username": "s1renx.21",
+        "quest_data": [
+            {
+                "description": "-# \u23f0 daily checklist resets <t:1789628400:r>",
+                "current": 0,
+                "total": 1,
+                "completed": false
+            }
+        ],
+        "next_quest_timer": null,
+        "current_cash": 0,
+        "gambling_stats": {
+            "total_wins": 0,
+            "total_losses": 7,
+            "total_wagered": 127,
+            "net_profit": -127,
+            "current_streak": -7,
+            "best_streak": 0,
+            "worst_streak": -7,
+            "biggest_win": 0,
+            "last_outcome": "loss"
+        }
+    },
+    "936079140694663249": {
+        "last_reset_date": "2026-09-15",
+        "captchas_solved": 50,
+        "bans_detected": 0,
+        "warnings_detected": 25,
+        "hunt_count": 3598,
+        "battle_count": 0,
+        "owo_count": 0,
+        "total_cmd_count": 8098,
+        "other_count": 8097,
+        "gems_used": 0,
+        "username": "ueuez",
+        "quest_data": [
+            {
+                "description": "-# \u23f0 daily checklist resets <t:1789628400:r>",
+                "current": 0,
+                "total": 1,
+                "completed": false
+            }
+        ],
+        "next_quest_timer": null,
+        "current_cash": 0,
+        "gambling_stats": {
+            "total_wins": 0,
+            "total_losses": 0,
+            "total_wagered": 0,
+            "net_profit": 0,
+            "current_streak": 0,
+            "best_streak": 0,
+            "worst_streak": 0,
+            "biggest_win": 0,
+            "last_outcome": null
+        }
+    }
+}
