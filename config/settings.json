@@ -147,7 +147,7 @@
             }
         },
         "quest": {
-            "enabled": true,
+            "enabled": false,
             "auto_solve": true,
             "use_alt_account": true,
             "interval_h": 6
