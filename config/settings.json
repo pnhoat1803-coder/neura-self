@@ -220,9 +220,9 @@
             "tiered": true,
             "tier_retries": 3,
             "service": "tiered",
-            "yescaptcha_api_key": "10268d1e5a271912be515271a2a0d52f839894be134223",
+            "yescaptcha_api_key": "",
             "nopecha_api_key": "",
-            "captchaly_api_key": "CP_9AfJd6qvVSnR9XPGudxGoEoNz4VNC7oVhnWSKMTF6REQ",
+            "captchaly_api_key": "",
             "anticaptcha_api_key": ""
         },
         "open_captcha_url_on_pc": true,
